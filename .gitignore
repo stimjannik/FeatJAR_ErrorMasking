@@ -12,3 +12,5 @@
 /bin/
 
 .DS_Store
+/evaluation-interaction-analysis/plots/.idea/
+/evaluation-interaction-analysis/plots/.venv/
